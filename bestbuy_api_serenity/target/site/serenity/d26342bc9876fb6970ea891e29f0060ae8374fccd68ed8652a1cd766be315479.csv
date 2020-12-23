@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"End to end categories test","Create new categories","SUCCESS","2020-12-22T16:34:37.831Z[Europe/London]","0.0","5.96"
+"End to end categories test","Getting categories information by Id","SUCCESS","2020-12-22T16:34:43.824Z[Europe/London]","0.0","1.23"
+"End to end categories test","Getting all categories information","SUCCESS","2020-12-22T16:34:45.060Z[Europe/London]","0.0","0.14"
+"End to end categories test","Delete the categories and verify if the categories is deleted!","SUCCESS","2020-12-22T16:34:45.205Z[Europe/London]","0.0","0.98"

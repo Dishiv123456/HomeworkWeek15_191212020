@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.bestbuy.bestbuyinfo.EndToEndProductsTest" skipped="0" tests="1" time="7.18" timestamp="2020-12-22T20:16:04.895Z[Europe/London]"><testcase classname="com.bestbuy.bestbuyinfo.EndToEndProductsTest" name="Delete the product and verify if the product is deleted!"/></testsuite>

@@ -1,0 +1,5 @@
+com\bestbuy\bestbuyinfo\EndToEndProductsTest.class
+com\bestbuy\bestbuyinfo\EndToEndServicesTest.class
+com\bestbuy\bestbuyinfo\EndToEndStoresTest.class
+com\bestbuy\testbase\TestBase.class
+com\bestbuy\bestbuyinfo\EndToEndCategoriesTest.class

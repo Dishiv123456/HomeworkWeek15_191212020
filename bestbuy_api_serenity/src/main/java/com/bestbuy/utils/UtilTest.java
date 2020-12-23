@@ -1,0 +1,18 @@
+package com.bestbuy.utils;
+
+
+import java.util.Random;
+
+public class UtilTest {
+
+    public static String getRandomValue(){
+        Random random = new Random();
+        int randomInt = random.nextInt(100000);
+        return Integer.toString(randomInt);
+    }
+    public static int getRandomNumber(){
+        Random random = new Random();
+        int randomInt = random.nextInt(100);
+        return randomInt;
+    }
+}

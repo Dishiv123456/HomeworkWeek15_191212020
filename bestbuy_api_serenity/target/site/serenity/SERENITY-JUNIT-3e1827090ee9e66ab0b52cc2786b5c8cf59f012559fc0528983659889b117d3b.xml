@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.bestbuy.bestbuyinfo.EndToEndProductsTest" skipped="0" tests="1" time="6.55" timestamp="2020-12-22T20:16:43.757Z[Europe/London]"><testcase classname="com.bestbuy.bestbuyinfo.EndToEndProductsTest" name="This test will get a specific product by Id"/></testsuite>

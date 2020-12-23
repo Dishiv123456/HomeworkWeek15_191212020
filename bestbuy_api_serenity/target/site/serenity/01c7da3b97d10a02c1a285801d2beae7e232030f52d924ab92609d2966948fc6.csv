@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"End to end products test","This will create new Product","SUCCESS","2020-12-22T16:34:48.683Z[Europe/London]","0.0","0.11"
+"End to end products test","This test will get a specific product by Id","SUCCESS","2020-12-22T16:34:48.797Z[Europe/London]","0.0","0.39"
+"End to end products test","Getting  all product information","SUCCESS","2020-12-22T16:34:49.191Z[Europe/London]","0.0","0.25"
+"End to end products test","Delete the product and verify if the product is deleted!","SUCCESS","2020-12-22T16:34:49.444Z[Europe/London]","0.0","0.4"

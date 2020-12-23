@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"End to end services test","Create new Service","SUCCESS","2020-12-22T16:34:49.906Z[Europe/London]","0.0","0.07"
+"End to end services test","Getting service information by Id","SUCCESS","2020-12-22T16:34:49.980Z[Europe/London]","0.0","0.07"
+"End to end services test","Getting all service information","SUCCESS","2020-12-22T16:34:50.056Z[Europe/London]","0.0","0.02"
+"End to end services test","Delete the service and verify if the service is deleted!","SUCCESS","2020-12-22T16:34:50.079Z[Europe/London]","0.0","0.15"

@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"End to end stores test","Create new Store","SUCCESS","2020-12-22T16:34:50.306Z[Europe/London]","0.0","0.06"
+"End to end stores test","Getting store information by Id","SUCCESS","2020-12-22T16:34:50.363Z[Europe/London]","0.0","0.12"
+"End to end stores test","Getting all stores information","SUCCESS","2020-12-22T16:34:50.480Z[Europe/London]","0.0","0.08"
+"End to end stores test","Delete the store and verify if the store is deleted!","SUCCESS","2020-12-22T16:34:50.558Z[Europe/London]","0.0","0.14"
